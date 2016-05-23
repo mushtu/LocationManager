@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Location Manager</string>
+    <string name="main_activity">Places</string>
+    <string name="action_add_new_place">New</string>
+    <string name="txtPlaceName">Display Name</string>
+    <string name="txtPlaceDescription">Description</string>
+
+
+</resources>
